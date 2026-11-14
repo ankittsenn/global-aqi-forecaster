@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+desktop.ini
+_desktop.ini
+# hourly downloads are large and can be rebuilt with build_data.py
+data/raw/
+# full backtest predictions (large)
+results/_predictions*

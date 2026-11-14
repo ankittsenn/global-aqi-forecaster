@@ -1,0 +1,20 @@
+{
+  "generated": "2026-11-15",
+  "data_end": "2026-11-08",
+  "n_folds": 4,
+  "block_days": 91,
+  "test_start": "2025-11-03",
+  "test_end": "2026-11-01",
+  "n_cities": 42,
+  "n_h1": 15288,
+  "models": [
+    "persistence",
+    "snaive",
+    "climatology",
+    "sarima",
+    "lgbm",
+    "lgbm_oracle"
+  ],
+  "backend": "auto",
+  "fast": false
+}

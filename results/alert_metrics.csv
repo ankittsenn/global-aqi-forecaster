@@ -1,0 +1,7 @@
+threshold,pm25_threshold,rows,episode_rate,roc_auc,pr_auc,brier,alert_rule,precision,recall,new_episodes,new_episode_recall
+usg,35.5,15288,0.3768,0.9697,0.9534,0.0657,"model, p >= 0.30 (watch)",0.8388,0.9165,1215,0.6206
+usg,35.5,15288,0.3768,0.9697,0.9534,0.0657,"model, p >= 0.60 (likely)",0.9089,0.8351,1215,0.363
+usg,35.5,15288,0.3768,0.9697,0.9534,0.0657,rule: today's value is already above the threshold,0.9007,0.7891,1215,0.0
+unhealthy,55.5,15288,0.2242,0.9772,0.9272,0.0484,"model, p >= 0.30 (watch)",0.8116,0.8959,859,0.5995
+unhealthy,55.5,15288,0.2242,0.9772,0.9272,0.0484,"model, p >= 0.60 (likely)",0.8986,0.773,859,0.2747
+unhealthy,55.5,15288,0.2242,0.9772,0.9272,0.0484,rule: today's value is already above the threshold,0.8783,0.7494,859,0.0

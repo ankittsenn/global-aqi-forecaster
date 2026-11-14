@@ -1,0 +1,28 @@
+horizon,driver,mean_abs_effect,mean_effect
+1,Recent pollution,9.9361,6.269
+1,Wind and stagnation,0.9735,0.2069
+1,Other pollutants and dust,0.7106,0.1914
+1,"Humidity, cloud and rain",0.6263,0.0577
+1,Time of year,0.5706,0.4213
+1,Air pressure,0.4784,-0.0484
+1,Pollution level of the last 3 months,0.2636,0.1803
+1,Temperature,0.1855,-0.0354
+1,Burning or heating season,0.0363,0.0307
+3,Recent pollution,7.2488,5.0373
+3,Time of year,1.6212,0.9663
+3,Other pollutants and dust,0.8794,0.3238
+3,Wind and stagnation,0.8063,0.258
+3,"Humidity, cloud and rain",0.8053,0.3399
+3,Pollution level of the last 3 months,0.7178,0.5021
+3,Temperature,0.4542,-0.1905
+3,Air pressure,0.4505,-0.0466
+3,Burning or heating season,0.1331,0.1193
+7,Recent pollution,6.6106,4.4619
+7,Time of year,2.9668,1.6083
+7,Other pollutants and dust,0.876,0.3155
+7,Pollution level of the last 3 months,0.6168,0.2901
+7,Wind and stagnation,0.5754,0.1295
+7,"Humidity, cloud and rain",0.5659,0.1404
+7,Temperature,0.4535,-0.2363
+7,Air pressure,0.3152,-0.038
+7,Burning or heating season,0.219,0.1689

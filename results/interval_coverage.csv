@@ -1,0 +1,5 @@
+interval,variant,coverage,mean_width
+80%,raw quantile models,0.7566,29.2639
+80%,calibrated (conformal),0.7966,31.7559
+95%,raw quantile models,0.9133,44.3488
+95%,calibrated (conformal),0.9492,51.5087

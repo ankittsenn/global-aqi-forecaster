@@ -1,0 +1,8 @@
+{
+  "trained_until": "2026-11-08",
+  "n_rows": 63000,
+  "n_cities": 42,
+  "backend": "lightgbm",
+  "n_features": 46,
+  "cal_days": 90
+}

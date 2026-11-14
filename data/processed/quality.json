@@ -1,0 +1,254 @@
+{
+  "Delhi": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Lahore": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Dhaka": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Kolkata": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Mumbai": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Kathmandu": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Beijing": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Shanghai": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Seoul": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Tokyo": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Ulaanbaatar": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Bangkok": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Chiang Mai": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Hanoi": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Jakarta": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Singapore": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Kuala Lumpur": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Tehran": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Riyadh": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Dubai": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Almaty": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Cairo": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Lagos": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Kano": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Accra": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Nairobi": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Johannesburg": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "London": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Paris": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Berlin": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Krak\u00f3w": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Istanbul": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Sarajevo": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Los Angeles": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "New York": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Mexico City": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Vancouver": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "S\u00e3o Paulo": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Santiago": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Lima": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Bogot\u00e1": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  },
+  "Sydney": {
+    "first_day": "2022-09-01",
+    "last_day": "2026-11-08",
+    "days": 1530,
+    "missing_pm25_pct": 0.0
+  }
+}

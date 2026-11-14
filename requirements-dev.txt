@@ -1,0 +1,8 @@
+# Everything for building data, backtesting, tests and the API
+-r requirements.txt
+statsmodels>=0.14
+matplotlib>=3.7
+pytest>=7.0
+fastapi>=0.110
+uvicorn>=0.27
+httpx>=0.25
